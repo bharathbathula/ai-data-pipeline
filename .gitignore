@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environment
+venv/
+.env
+
+# Data (keep raw out of git if large)
+data/raw/
+data/processed/
+
+# Models
+models/
+
+# OS / Editor
+.vscode/
+.DS_Store
